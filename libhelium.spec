@@ -8,7 +8,7 @@ Source0:        https://github.com/tau-OS/libhelium/archive/refs/tags/%{version}
 
 BuildRequires:  sass
 BuildRequires:  meson
-BuildRequires:  ninja-buildg
+BuildRequires:  ninja-build
 BuildRequires:  vala
 # Needed for wrap
 BuildRequires:  git
