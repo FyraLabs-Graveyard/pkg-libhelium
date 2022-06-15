@@ -1,0 +1,6 @@
+[libhelium]
+spec = "libhelium.spec"
+build_script = ""
+build_method = "mock"
+owner = "cappy"
+git_repo = "https://github.com/ultramarine-linux/libhelium"
